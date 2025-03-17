@@ -2,7 +2,7 @@ Copyright Szabo Cristina-Andreea 2024-2025
 
 # BitTorrent Simulator
 
-This project implements a BitTorrent protocol simulator using MPI (Message Passing Interface). The simulator models the interaction between clients and a tracker in a peer-to-peer file-sharing network, handling file distribution, download, and upload processes using multiple threads.
+This project implements a BitTorrent protocol simulator using MPI that models the interaction between clients and a tracker in a peer-to-peer file-sharing network, handling file distribution, download, and upload processes using multiple threads.
 
 ## How It Works
 
